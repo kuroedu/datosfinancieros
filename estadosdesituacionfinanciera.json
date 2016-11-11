@@ -1,0 +1,542 @@
+﻿[
+ {
+   "Año": 2015,
+   "Orden": 1,
+   "Concepto": "Bancos",
+   "Saldo": 33
+ },
+ {
+   "Año": 2015,
+   "Orden": 2,
+   "Concepto": "Inversiones en Valores Temporales ",
+   "Saldo": 95591
+ },
+ {
+   "Año": 2015,
+   "Orden": 3,
+   "Concepto": "Derechos a Recibir Efectivo o Equivalentes",
+   "Saldo": 0
+ },
+ {
+   "Año": 2015,
+   "Orden": 4,
+   "Concepto": "Derechos a Recibir Bienes o Servicios ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2015,
+   "Orden": 5,
+   "Concepto": "Total de  Activo  Circulante",
+   "Saldo": 95624
+ },
+ {
+   "Año": 2015,
+   "Orden": 6,
+   "Concepto": "Inversiones Financieras a Largo Plazo ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2015,
+   "Orden": 7,
+   "Concepto": "Derechos a Recibir Efectivo o Equivalentes a Largo plazo",
+   "Saldo": 848970
+ },
+ {
+   "Año": 2015,
+   "Orden": 8,
+   "Concepto": "    Recursos a ser Asignados - vía Presupuesto de Egresos de la Federación ",
+   "Saldo": 848679
+ },
+ {
+   "Año": 2015,
+   "Orden": 9,
+   "Concepto": "    Documentos por Cobrar y Deudores Diversos, neto ",
+   "Saldo": 130
+ },
+ {
+   "Año": 2015,
+   "Orden": 10,
+   "Concepto": "    Subrogración por el Pago de Obligaciones Garantizadas ",
+   "Saldo": 161
+ },
+ {
+   "Año": 2015,
+   "Orden": 11,
+   "Concepto": "Bienes Inmuebles, Infraestructura y Construcciones en Proceso",
+   "Saldo": 91
+ },
+ {
+   "Año": 2015,
+   "Orden": 12,
+   "Concepto": "Bienes Muebles ",
+   "Saldo": 4
+ },
+ {
+   "Año": 2015,
+   "Orden": 13,
+   "Concepto": "Activos Diferidos",
+   "Saldo": 3795
+ },
+ {
+   "Año": 2015,
+   "Orden": 14,
+   "Concepto": "Total de  Activo  No Circulante",
+   "Saldo": 852860
+ },
+ {
+   "Año": 2015,
+   "Orden": 15,
+   "Concepto": "TOTAL DEL  ACTIVO",
+   "Saldo": 948484
+ },
+ {
+   "Año": 2015,
+   "Orden": 16,
+   "Concepto": "Cuentas por Pagar a Corto Plazo ",
+   "Saldo": 29
+ },
+ {
+   "Año": 2015,
+   "Orden": 17,
+   "Concepto": "Porción a Corto Plazo de la Deuda Pública a Largo Plazo",
+   "Saldo": 186259
+ },
+ {
+   "Año": 2015,
+   "Orden": 18,
+   "Concepto": "     Préstamos Bancarios y de Otras Entidades ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2015,
+   "Orden": 19,
+   "Concepto": "     Bonos de Protección al Ahorro ",
+   "Saldo": 186259
+ },
+ {
+   "Año": 2015,
+   "Orden": 20,
+   "Concepto": "     Operaciones con Instrumentos Financieros Derivados, neto ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2015,
+   "Orden": 21,
+   "Concepto": "Total de Pasivo Circulante",
+   "Saldo": 186288
+ },
+ {
+   "Año": 2015,
+   "Orden": 22,
+   "Concepto": "Provisiones a Largo Plazo ",
+   "Saldo": 25033
+ },
+ {
+   "Año": 2015,
+   "Orden": 23,
+   "Concepto": "Deuda Pública a Largo Plazo",
+   "Saldo": 737127
+ },
+ {
+   "Año": 2015,
+   "Orden": 24,
+   "Concepto": "     Préstamos Bancarios y de Otras Entidades ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2015,
+   "Orden": 25,
+   "Concepto": "     Bonos de Protección al Ahorro ",
+   "Saldo": 737127
+ },
+ {
+   "Año": 2015,
+   "Orden": 26,
+   "Concepto": "Total de Pasivo No Circulante",
+   "Saldo": 762160
+ },
+ {
+   "Año": 2015,
+   "Orden": 27,
+   "Concepto": "TOTAL DEL  PASIVO",
+   "Saldo": 948448
+ },
+ {
+   "Año": 2015,
+   "Orden": 28,
+   "Concepto": "Resultado Integral del Ejercicio ",
+   "Saldo": 36
+ },
+ {
+   "Año": 2015,
+   "Orden": 29,
+   "Concepto": "Total Patrimonio",
+   "Saldo": 36
+ },
+ {
+   "Año": 2015,
+   "Orden": 30,
+   "Concepto": "TOTAL DEL  PASIVO Y PATRIMONIO",
+   "Saldo": 948484
+ },
+ {
+   "Año": 2014,
+   "Orden": 1,
+   "Concepto": "Bancos",
+   "Saldo": 26
+ },
+ {
+   "Año": 2014,
+   "Orden": 2,
+   "Concepto": "Inversiones en Valores Temporales ",
+   "Saldo": 71939
+ },
+ {
+   "Año": 2014,
+   "Orden": 3,
+   "Concepto": "Derechos a Recibir Efectivo o Equivalentes",
+   "Saldo": 0
+ },
+ {
+   "Año": 2014,
+   "Orden": 4,
+   "Concepto": "Derechos a Recibir Bienes o Servicios ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2014,
+   "Orden": 5,
+   "Concepto": "Total de  Activo  Circulante",
+   "Saldo": 71965
+ },
+ {
+   "Año": 2014,
+   "Orden": 6,
+   "Concepto": "Inversiones Financieras a Largo Plazo ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2014,
+   "Orden": 7,
+   "Concepto": "Derechos a Recibir Efectivo o Equivalentes a Largo plazo",
+   "Saldo": 838847
+ },
+ {
+   "Año": 2014,
+   "Orden": 8,
+   "Concepto": "    Recursos a ser Asignados - vía Presupuesto de Egresos de la Federación ",
+   "Saldo": 838557
+ },
+ {
+   "Año": 2014,
+   "Orden": 9,
+   "Concepto": "    Documentos por Cobrar y Deudores Diversos, neto ",
+   "Saldo": 127
+ },
+ {
+   "Año": 2014,
+   "Orden": 10,
+   "Concepto": "    Subrogración por el Pago de Obligaciones Garantizadas ",
+   "Saldo": 163
+ },
+ {
+   "Año": 2014,
+   "Orden": 11,
+   "Concepto": "Bienes Inmuebles, Infraestructura y Construcciones en Proceso",
+   "Saldo": 95
+ },
+ {
+   "Año": 2014,
+   "Orden": 12,
+   "Concepto": "Bienes Muebles ",
+   "Saldo": 5
+ },
+ {
+   "Año": 2014,
+   "Orden": 13,
+   "Concepto": "Activos Diferidos",
+   "Saldo": 4543
+ },
+ {
+   "Año": 2014,
+   "Orden": 14,
+   "Concepto": "Total de  Activo  No Circulante",
+   "Saldo": 843490
+ },
+ {
+   "Año": 2014,
+   "Orden": 15,
+   "Concepto": "TOTAL DEL  ACTIVO",
+   "Saldo": 915455
+ },
+ {
+   "Año": 2014,
+   "Orden": 16,
+   "Concepto": "Cuentas por Pagar a Corto Plazo ",
+   "Saldo": 26
+ },
+ {
+   "Año": 2014,
+   "Orden": 17,
+   "Concepto": "Porción a Corto Plazo de la Deuda Pública a Largo Plazo",
+   "Saldo": 168838
+ },
+ {
+   "Año": 2014,
+   "Orden": 18,
+   "Concepto": "     Préstamos Bancarios y de Otras Entidades ",
+   "Saldo": 370
+ },
+ {
+   "Año": 2014,
+   "Orden": 19,
+   "Concepto": "     Bonos de Protección al Ahorro ",
+   "Saldo": 168454
+ },
+ {
+   "Año": 2014,
+   "Orden": 20,
+   "Concepto": "     Operaciones con Instrumentos Financieros Derivados, neto ",
+   "Saldo": 14
+ },
+ {
+   "Año": 2014,
+   "Orden": 21,
+   "Concepto": "Total de Pasivo Circulante",
+   "Saldo": 168864
+ },
+ {
+   "Año": 2014,
+   "Orden": 22,
+   "Concepto": "Provisiones a Largo Plazo ",
+   "Saldo": 20578
+ },
+ {
+   "Año": 2014,
+   "Orden": 23,
+   "Concepto": "Deuda Pública a Largo Plazo",
+   "Saldo": 725950
+ },
+ {
+   "Año": 2014,
+   "Orden": 24,
+   "Concepto": "     Préstamos Bancarios y de Otras Entidades ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2014,
+   "Orden": 25,
+   "Concepto": "     Bonos de Protección al Ahorro ",
+   "Saldo": 725950
+ },
+ {
+   "Año": 2014,
+   "Orden": 26,
+   "Concepto": "Total de Pasivo No Circulante",
+   "Saldo": 746528
+ },
+ {
+   "Año": 2014,
+   "Orden": 27,
+   "Concepto": "TOTAL DEL  PASIVO",
+   "Saldo": 915392
+ },
+ {
+   "Año": 2014,
+   "Orden": 28,
+   "Concepto": "Resultado Integral del Ejercicio ",
+   "Saldo": 63
+ },
+ {
+   "Año": 2014,
+   "Orden": 29,
+   "Concepto": "Total Patrimonio",
+   "Saldo": 63
+ },
+ {
+   "Año": 2014,
+   "Orden": 30,
+   "Concepto": "TOTAL DEL  PASIVO Y PATRIMONIO",
+   "Saldo": 915455
+ },
+ {
+   "Año": 2013,
+   "Orden": 1,
+   "Concepto": "     Bancos",
+   "Saldo": 3830
+ },
+ {
+   "Año": 2013,
+   "Orden": 2,
+   "Concepto": "     Inversiones en Valores Temporales ",
+   "Saldo": 90695
+ },
+ {
+   "Año": 2013,
+   "Orden": 3,
+   "Concepto": "Derechos a Recibir Efectivo o Equivalentes",
+   "Saldo": 0
+ },
+ {
+   "Año": 2013,
+   "Orden": 4,
+   "Concepto": "Derechos a Recibir Bienes o Servicios ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2013,
+   "Orden": 5,
+   "Concepto": "Total de  Activo  Circulante",
+   "Saldo": 94525
+ },
+ {
+   "Año": 2013,
+   "Orden": 6,
+   "Concepto": "Inversiones Financieras a Largo Plazo ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2013,
+   "Orden": 7,
+   "Concepto": "Derechos a Recibir Efectivo o Equivalentes a Largo plazo",
+   "Saldo": 824665
+ },
+ {
+   "Año": 2013,
+   "Orden": 8,
+   "Concepto": "    Recursos a ser Asignados - vía Presupuesto de Egresos de la Federación ",
+   "Saldo": 824418
+ },
+ {
+   "Año": 2013,
+   "Orden": 9,
+   "Concepto": "    Documentos por Cobrar y Deudores Diversos, neto ",
+   "Saldo": 247
+ },
+ {
+   "Año": 2013,
+   "Orden": 10,
+   "Concepto": "    Subrogración por el Pago de Obligaciones Garantizadas ",
+   "Saldo": 0
+ },
+ {
+   "Año": 2013,
+   "Orden": 11,
+   "Concepto": "Bienes Inmuebles, Infraestructura y Construcciones en Proceso",
+   "Saldo": 100
+ },
+ {
+   "Año": 2013,
+   "Orden": 12,
+   "Concepto": "Bienes Muebles ",
+   "Saldo": 6
+ },
+ {
+   "Año": 2013,
+   "Orden": 13,
+   "Concepto": "Activos Diferidos",
+   "Saldo": 5501
+ },
+ {
+   "Año": 2013,
+   "Orden": 14,
+   "Concepto": "Total de  Activo  No Circulante",
+   "Saldo": 830272
+ },
+ {
+   "Año": 2013,
+   "Orden": 15,
+   "Concepto": "TOTAL DEL  ACTIVO",
+   "Saldo": 924797
+ },
+ {
+   "Año": 2013,
+   "Orden": 16,
+   "Concepto": "Cuentas por Pagar a Corto Plazo ",
+   "Saldo": 28
+ },
+ {
+   "Año": 2013,
+   "Orden": 17,
+   "Concepto": "Porción a Corto Plazo de la Deuda Pública a Largo Plazo",
+   "Saldo": 201775
+ },
+ {
+   "Año": 2013,
+   "Orden": 18,
+   "Concepto": "     Préstamos Bancarios y de Otras Entidades ",
+   "Saldo": 331
+ },
+ {
+   "Año": 2013,
+   "Orden": 19,
+   "Concepto": "     Bonos de Protección al Ahorro ",
+   "Saldo": 201357
+ },
+ {
+   "Año": 2013,
+   "Orden": 20,
+   "Concepto": "     Operaciones con Instrumentos Financieros Derivados, neto ",
+   "Saldo": 87
+ },
+ {
+   "Año": 2013,
+   "Orden": 21,
+   "Concepto": "Total de Pasivo Circulante",
+   "Saldo": 201803
+ },
+ {
+   "Año": 2013,
+   "Orden": 22,
+   "Concepto": "Provisiones a Largo Plazo ",
+   "Saldo": 16913
+ },
+ {
+   "Año": 2013,
+   "Orden": 23,
+   "Concepto": "Deuda Pública a Largo Plazo",
+   "Saldo": 706125
+ },
+ {
+   "Año": 2013,
+   "Orden": 24,
+   "Concepto": "     Préstamos Bancarios y de Otras Entidades ",
+   "Saldo": 327
+ },
+ {
+   "Año": 2013,
+   "Orden": 25,
+   "Concepto": "     Bonos de Protección al Ahorro ",
+   "Saldo": 705798
+ },
+ {
+   "Año": 2013,
+   "Orden": 26,
+   "Concepto": "Total de Pasivo No Circulante",
+   "Saldo": 723038
+ },
+ {
+   "Año": 2013,
+   "Orden": 27,
+   "Concepto": "TOTAL DEL  PASIVO",
+   "Saldo": 924841
+ },
+ {
+   "Año": 2013,
+   "Orden": 28,
+   "Concepto": "Resultado Integral del Ejercicio ",
+   "Saldo": -44
+ },
+ {
+   "Año": 2013,
+   "Orden": 29,
+   "Concepto": "Total Patrimonio",
+   "Saldo": -44
+ },
+ {
+   "Año": 2013,
+   "Orden": 30,
+   "Concepto": "TOTAL DEL  PASIVO Y PATRIMONIO",
+   "Saldo": 924797
+ }
+]
